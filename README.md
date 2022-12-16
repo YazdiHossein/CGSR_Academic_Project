@@ -6,6 +6,7 @@ The Brief description for the CGSR Report about Tesco Scandal:
 
 ASSIGNMENT DETAILS
 The Tesco Reporting Scandal
+
 Tesco, a supermarket chain, was found to have overstated it profits in 2014 by 
 £263m after revenue recognition irregularities were spotted in its half-year results, 
 with regulators including the Financial Conduct Authority (FCA) set to decide on a 
@@ -15,8 +16,8 @@ The supermarket originally predicted its then half-year trading profit would be 
 £1.1bn, but this figure has now been cut back by £263m – originally £250m. Tesco 
 had subsequently launched a review of the figures to find out why its first half profit 
 prediction was so inflated.
-You are required to prepare a PowerPoint group presentation that includes the 
-following:
+
+Content:
 • Introduction to Tesco and its accounts scandal
 • The reasons leading Tesco’s scandal
 • The lack of governance in the Tesco scandal
@@ -31,7 +32,8 @@ The Brief description for the CGSR Report about Business Ethics
 
 ASSIGNMENT DETAILS
 Business Ethics – how to make companies more ethical in their activities?
-You are required to prepare a report that includes the following:
+
+Content:
 • Introduction to Business Ethics as a business topic – define business ethics, 
 and illustrate some examples of good practices and failures
 The reasons leading to business ethics failures – illustrated by examples
